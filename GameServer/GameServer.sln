@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GameServer", "GameServer\GameServer.csproj", "{30A5D69B-190F-4472-A3A9-6EE9DEB9A6F2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WodiServer", "WodiServerLib\WodiServer.csproj", "{CFDB5D68-D095-4337-AE30-5780A1669AD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Protocol", "Protocol\Protocol.csproj", "{3BFC9376-A441-4B24-851A-AF72B64E38F7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30A5D69B-190F-4472-A3A9-6EE9DEB9A6F2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30A5D69B-190F-4472-A3A9-6EE9DEB9A6F2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30A5D69B-190F-4472-A3A9-6EE9DEB9A6F2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30A5D69B-190F-4472-A3A9-6EE9DEB9A6F2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFDB5D68-D095-4337-AE30-5780A1669AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFDB5D68-D095-4337-AE30-5780A1669AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFDB5D68-D095-4337-AE30-5780A1669AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFDB5D68-D095-4337-AE30-5780A1669AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BFC9376-A441-4B24-851A-AF72B64E38F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BFC9376-A441-4B24-851A-AF72B64E38F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BFC9376-A441-4B24-851A-AF72B64E38F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BFC9376-A441-4B24-851A-AF72B64E38F7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {13C6534B-EBA6-4830-8BE5-DBAC1CC491A1}
+	EndGlobalSection
+EndGlobal

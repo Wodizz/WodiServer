@@ -1,0 +1,6 @@
+D:\Personal\服务端相关\新建文件夹\wodi-server\GameServer\Protocol\bin\Debug\Protocol.dll
+D:\Personal\服务端相关\新建文件夹\wodi-server\GameServer\Protocol\bin\Debug\Protocol.pdb
+D:\Personal\服务端相关\新建文件夹\wodi-server\GameServer\Protocol\obj\Debug\Protocol.csproj.AssemblyReference.cache
+D:\Personal\服务端相关\新建文件夹\wodi-server\GameServer\Protocol\obj\Debug\Protocol.csproj.CoreCompileInputs.cache
+D:\Personal\服务端相关\新建文件夹\wodi-server\GameServer\Protocol\obj\Debug\Protocol.dll
+D:\Personal\服务端相关\新建文件夹\wodi-server\GameServer\Protocol\obj\Debug\Protocol.pdb
